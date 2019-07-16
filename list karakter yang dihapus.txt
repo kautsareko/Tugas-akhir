@@ -1,0 +1,4 @@
+1. Spasi yang berlebihan
+2. karakter (/r/n/n)
+3. petik dua ("")
+4. kolom yang tidak memiliki objek
